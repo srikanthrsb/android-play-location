@@ -21,7 +21,7 @@ import com.google.android.gms.maps.model.LatLng;
 import java.util.HashMap;
 
 /**
- * Constants used in this sample.
+ * Constants used in this sample used.
  */
 public final class Constants {
 
